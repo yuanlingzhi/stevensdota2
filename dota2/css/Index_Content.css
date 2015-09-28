@@ -1,0 +1,16 @@
+
+.Index_Module{
+	width:250px;
+	float:left;
+
+}
+.Index_Module img {
+	margin-top:50px;
+	width:200px;
+	height:200px;
+  border-radius: 50px;
+}
+
+.Index_Module a:hover{
+	background-color: transparent;
+}

@@ -1,0 +1,31 @@
+.scontent
+{
+	text-align:center;
+	width:1000px;
+	margin: 60px auto;
+	clear:both;
+	font-size: 1em;
+}
+.resultlist
+{
+	list-style-type:none;
+}
+.searchres
+{
+	text-align:left;
+	color:silver;
+	font-size:2em;
+}
+.noresult
+{	
+	text-align:center;
+	color:red;
+	height:600px;
+	font-size: 10em;
+}
+.showresult
+{
+	text-align:left;
+	color:#99ea2d;
+	font-size:3em;
+}

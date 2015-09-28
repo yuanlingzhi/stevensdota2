@@ -1,0 +1,29 @@
+
+.ncontent{
+	text-align:center;
+	width:1000px;
+	margin: 60px auto;
+	clear:both;
+	font-size: 1em;
+}
+.news{
+	text-align:left;
+	width:1000px;
+	margin: 60px auto;
+	clear:both;
+}
+
+.newsContentTitle{
+	color:orange;
+	margin-left:10px;;
+	font-family: Georgia;
+	font-size: xx-large;
+	font-weight: 1000;
+}
+.newsContent{
+	margin-left:10px;
+	color:white;
+	margin-top: 20px;
+	font-family: monospace;
+	font-size: large;
+}

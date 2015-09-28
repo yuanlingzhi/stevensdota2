@@ -1,0 +1,25 @@
+
+#logincheck
+{
+	margin-left:300px;
+}
+.login
+{
+	height:50px;
+	width:500px;
+	margin-left:200px;
+	font-size:20px;
+}
+.login a{
+	text-decoration: underline;
+	color:silver;
+}
+
+.login a:hover
+{
+	background: none;
+}
+.logininfo{
+	color:red;
+	font-size:1.5em;
+}

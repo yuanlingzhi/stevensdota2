@@ -1,0 +1,17 @@
+#cfooter
+{
+	color:white;
+	clear:both;
+	height:100px;
+	width:100%;
+}
+.chr
+{
+	border:0;
+	background-color:gray;
+	height:1px;
+}
+.cftc
+{
+	text-align:center;
+}

@@ -1,0 +1,83 @@
+#cheader
+{
+	background-image: url(../img/bg/headerbg.png);
+	width:100%;
+  margin:auto;
+  position:fixed;
+  height:80px;
+  background-attachment: fixed
+}
+.logoimg
+{
+	float:left;
+}
+.cblank
+{
+	height:100px;
+}
+
+.cnav
+{
+	text-align:center;
+	font-size:62px;
+}
+
+.clogin
+{
+	text-align:right;
+	float:right;
+	font-size:20px;
+}
+
+.cnav a:link{
+	color:white;
+}
+.cnav a:visited{
+	color:white;
+}
+.cnav a:hover{	
+	color:cyan;
+	background:none;
+	text-decoration:none;
+}
+.cnav a:active{
+	color:white;
+}
+
+.csearch
+{
+	width:   11px;
+	height:  11px;
+	background:url(../img/bg/Search1.png) no-repeat;
+	border:0;
+}
+
+.csearchtext
+{
+  background:none;
+	border:1px solid gray;
+	color:white;
+	border-radius:8px;
+}
+.srch
+{
+	clear:both;
+	float:right;
+}
+.headerright{
+	float:right;
+}
+.headerright a:link{
+	color: orange;
+}
+.headerright a:visited{
+	color: orange;
+}
+.headerright a:hover{
+	background: none;
+	text-decoration: underline
+}
+.headerright a:active
+{
+	color:#7b6b03;
+}

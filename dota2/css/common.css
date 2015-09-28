@@ -1,0 +1,182 @@
+
+.ccontent{
+	text-align:center;
+	width:1000px;
+	margin: 60px auto;
+	clear:both;
+	height:600px;
+	font-size: 1em;
+}
+
+a{
+	color:orange;
+	text-decoration:none;
+	font-family: Georgia;
+}
+
+a:link{
+
+}
+a:visited{
+
+}
+a:hover{	
+	background-color:none;
+	text-decoration:underline;
+}
+a:active{
+
+}
+
+.mainbody{ 
+	margin:auto;
+	background-size: 100% 100%; 
+	background-attachment: fixed;
+}
+
+.atitle{                     
+	
+	color:orange;
+	font-weight:bolder;
+	font-family: cursive;
+}
+.ttitle{
+	text-align: left;
+	text-indent: 8px;
+	color:white;
+	height:46px;
+	background-image: url(../img/bg/bar.png);
+}
+.postwidth{
+
+	width: 150px;
+}
+.titlewidth{
+	width:800px;
+}
+.datewidth{
+	width:175px;
+}
+.tableframe{
+	text-align: left;
+	margin-left:5px;
+	background-image:url("../img/bg/headerbg.png");
+}
+.tablepost{
+
+	color:#ffffff;
+}
+.tabledate{
+	color:#ffffff;
+}
+.linkTo
+{
+	width:1000px;
+	text-align:left;
+	color:white;
+}
+.linkTo a:link{
+
+	color: cyan;
+}
+.linkTo a:visited{
+
+	color: cyan;
+}
+.linkTo a:hover{	
+	background: none;
+	text-decoration: underline
+}
+.linkTo a:active{
+
+	color:#930dfb;
+}
+.hrz
+{
+	border:1px solid gray;
+}
+.page
+{
+	color:white;
+	float:right;
+	margin-right:20px;
+}
+.page a
+{
+	color:white;
+	text-decoration: none;
+	font-family:serif;
+}
+.page a:hover
+{
+	color:cyan;
+}
+.gopage
+{
+	float:right;
+	margin-left:5px;
+}
+#selected
+{
+	text-decoration: underline
+}
+.sub
+{
+     border-radius: 5px 5px 5px 5px;
+     padding: 5px 10px 5px 10px;
+     display: inline;
+     font-family: "Courier New", Courier, monospace;
+     font-size: 1em;
+     font-weight:800;
+     color: cyan;
+     text-shadow:5px 2px 5px silver;
+	 background-color:#5e5e5e;
+     cursor: pointer;
+}
+.cpost
+{
+	text-align:left;
+	margin-top:100px;
+	float:left;
+	color: white;
+}
+.textfield
+{
+	padding-top:5px;
+	padding-bottom:5px;
+ 	background:none;
+	border:1px solid gray;
+	color:white;
+	border-radius:10px;
+	resize:none;
+}
+#question
+{
+	background: white;
+	color:black;
+}
+
+.check
+{
+	font-size:20px;
+	float:left;
+	color:red;
+}
+
+.text1{
+	text-align:right;
+	float:left;
+	width:220px;
+	color:silver;
+}
+.text2{
+	margin-left:20px;
+	float:left;
+	text-align:left;
+	width:250px;
+}
+.tips{
+	font-size: 0.7em;
+	font-style: italic;
+	color:#99ea2d;
+}

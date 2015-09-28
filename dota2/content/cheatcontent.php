@@ -1,0 +1,3 @@
+<section class="cheat">
+Don't Cheat!!<br/>Return to Home in 3 sec...
+</section>

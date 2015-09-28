@@ -1,0 +1,128 @@
+.chero
+{
+	clear:both;
+	width:1200px;
+	height:800px; 
+	margin:auto;
+}
+.cheroHeight
+{
+	height:320px;
+}
+.cheroImage
+{	
+	float:left;
+	margin-left:0;
+	width:300px;
+	height:800px;
+	background-image:url("../img/bg/headerbg.png");
+}
+
+#cheroImage2
+{
+	float:left;
+	margin-left:10px;
+}
+.cheroDetail
+{
+	float:left;
+	width:270px;
+	height:800px;
+	border-left-style:solid;
+	background-image:url("../img/bg/headerbg.png");
+}
+
+.heroti
+{
+	text-align:center;
+	color:orange;
+	font-family: Cursive;
+	font-size:1.5em;
+}
+
+.heronick
+{
+	color:#c8f53f;
+	margin-left:10px;
+	font-weight:bold;
+}
+.heroname
+{
+	color:#b5c77f;
+	margin-left:10px;
+	font-weight:bold;
+}
+.heroskills
+{
+	margin-left:10px;
+	width:100px;
+	text-align:left;
+	color:orange;
+	font-family: Cursive;
+}
+.heroattri
+{
+	text-align:center;
+}
+.heroattrieach
+{
+	width:90px;
+	float:left;
+}
+.attriname
+{
+	color:#c8f53f;
+}
+.attrivalue
+{
+	color:white;
+}
+.skills
+{
+	color:white;
+	font-family: Cursive;
+	font-weight:bold;
+	font-size:20;
+}
+.hotkey
+{
+	color:#d6fcd4;
+	font-size:18;
+	font-family: sans-serif;
+}
+.hotkeyvalue
+{
+	color:orange;
+	font-family: Cursive;
+	font-size:20;
+}
+
+.heroImg
+{
+	border:solid;
+}
+.heroImg1
+{
+	background-color:red;
+	border:solid;
+	border-color: orange;
+}
+
+.attrimg1
+{
+	border: solid;
+	border-radius: 20px;
+	border-color: orange;
+}
+.attrimg2
+{
+	border: solid;
+	border-radius: 20px;
+	border-color: transparent;
+}
+.attrimg3
+{
+	border: solid;
+	border-radius: 20px;
+	border-color: transparent;
+}

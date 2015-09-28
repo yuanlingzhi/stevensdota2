@@ -1,0 +1,61 @@
+
+.chatcontent{
+	text-align:center;
+	width:1000px;
+	margin: 60px auto;
+	clear:both;
+	font-size: 1em;
+}
+.del
+{
+	text-align:left;
+}
+.cchatpost
+{
+	text-align:left;
+	margin-top:100px;
+	float:left;
+	color: white;
+}
+
+.cchatsec
+{
+	text-align:center;
+	width:1000px;
+	margin: 60px auto;
+	clear:both;
+}
+
+.cchatheader
+{
+	text-align:left;
+	color:white;
+	height:46px;
+	background-image: url(../img/bg/bar.png);
+	text-indent: 15px;
+	font-weight:bold;
+}
+.cchattheme
+{
+	float:left;
+	margin-top:14px;
+}
+.cchatauthor
+{
+	vertical-align:top;
+	text-align:center;
+	width:150px;
+	color:silver;
+}
+.cchatcontent
+{
+	vertical-align:top;
+	width:800px;
+	color:silver;
+}
+.cchatdate
+{
+	vertical-align:top;
+	width:175px;
+	color:silver;
+}

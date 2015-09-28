@@ -1,0 +1,3 @@
+<section class="cheat">
+Operation Succeed!!<br/>Return to Home in 3 sec...
+</section>

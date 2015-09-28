@@ -1,0 +1,68 @@
+
+.create a{
+	color:cyan;
+	font-weight:bolder;
+	font-family: verdana;
+	font-size: 2em
+}
+
+.eventdetail{
+	text-align:left;
+	width:1000px;
+	margin: auto;
+	clear:both;
+	height:600px;
+	color:silver;
+	font-size: 1.2em
+}
+
+.join a{
+	text-align:center;
+	color:cyan;
+	font-weight:bolder;
+	font-family: verdana;
+	font-size: 2em
+}
+
+
+.eventcreate{
+	text-align:left;
+	width:500px;
+	margin: 100px auto;
+	color:silver;
+	font-size: 1.5em;
+}
+
+.eventinput{
+	float: left;
+}
+.eventtip{
+	float: left;	
+	width:500px;
+	text-align:center;
+}
+.eventinput1{
+	float: left;
+	margin-top: 15px;
+	width:200px;
+	text-align:right;
+}
+
+.eventinput2{
+	float: left;
+	margin-top: 15px;
+	margin-left: 15px;
+	width:200px;
+	text-align:left;
+}
+
+.eventinput3{
+	clear: both;
+	float: left;
+	margin-top: 15px;
+	margin-left: 220px;
+}
+.selection1
+{
+	margin-top:5px;
+}

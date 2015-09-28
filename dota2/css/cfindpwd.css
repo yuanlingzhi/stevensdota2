@@ -1,0 +1,51 @@
+.fpwd
+{
+	height:50px;
+	width:600px;
+	margin-left:200px;
+	font-size: 1.2em;
+}
+.next
+{
+	height:50px;
+	width:440px;
+	text-align:right;
+}
+.qst
+{
+	height:50px;
+	width:800px;
+	float:left;
+	text-align:left;
+	color:silver;
+}
+.infousr
+{
+	height:50px;
+	width:600px;
+	margin-left:200px;
+	font-size: 1.5em;
+	color:red;
+}
+.text3
+{
+	text-align:right;
+	float:left;
+	color:silver;
+}
+.text4
+{
+	height:50px;
+	text-align:right;
+	float:left;
+	width:220px;
+	color:silver;
+}
+.text5
+{
+	height:50px;
+	margin-left:1.2em;
+	float:left;
+	text-align:left;
+	width:200px;
+}

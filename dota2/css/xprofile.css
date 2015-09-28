@@ -1,0 +1,21 @@
+.pcontent{
+	width:1000px;
+	margin: 60px auto;
+	clear:both;
+	height: 800px;
+	color:white;
+}
+
+.profile{
+	text-align: left;
+}
+
+.hidden{
+	display: none;
+}
+
+.spanen{
+	color: orange;
+	font: verdana;
+	font-size: 0.7em
+}

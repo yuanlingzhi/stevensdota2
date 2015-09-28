@@ -1,0 +1,181 @@
+
+.yinbox{
+	clear:both;
+	width:1000px;
+	height:700px; 
+	margin:0 auto;
+}
+.yinboxleft{
+	float:left;
+	width:400px;
+	height:500px;
+	border-right: solid;
+	border-right-color: silver;
+	overflow-y:auto;
+}
+.yinboxright{
+	float:left;
+	width:590px;
+	height:500px;
+	overflow-y:auto;
+}
+.yinboxtitle{
+	width:1000px;
+	height:40px;
+	background-image: url(../img/bg/bar.png);
+
+}
+.yinboxposition {
+	text-indent:15px;
+	float:left;
+	width:100px;
+	margin-top: 6px;
+	margin-left:4px;
+}
+.deletepositionshow{
+	text-indent:15px;
+	float:right;
+	width:100px;
+	margin-top: 6px;
+	margin-left:4px;
+	display:block;
+}
+.deletepositionhide{
+	text-indent:15px;
+	float:right;
+	width:100px;
+	margin-top: 6px;
+	margin-left:4px;
+	display:none;
+}
+.yinboxtitle a{
+	font-size: 20px;
+}
+.yinboxtitle a:link{
+	color: orange;
+}
+.yinboxtitle a:visited{
+	color: orange;
+}
+.yinboxtitle a:hover{
+	background: none;
+	text-decoration: underline
+}
+.yinboxtitle a:active
+{
+	color:#7b6b03;
+}
+.inboxinfo{
+	margin-top:5px;
+	text-indent: 6px;
+	font-size: medium;
+	color:white;
+}
+.inboxname{
+	width:180px;
+	float:left;
+	color:  white;
+}
+.inboxdate{
+	width:180px;
+	margin-right:5px;
+	float:right;
+	color:  white;	
+}
+.inboxname_unread{
+	width:180px;
+	float:left;
+	color:  cyan;
+}
+.inboxdate_unread{
+	width:180px;
+	margin-right:5px;
+	float:right;
+	color:  cyan;		
+}
+.inboxtype{
+	font-size: large;
+	color:white;
+}
+.yinboxcontent{
+	margin:20px 20px;
+	font-size: large;
+	color:white;
+}
+
+
+#hidebg {
+    position:fixed;left:0px;top:0px;
+    background-color:grey;
+    width:100%; 
+	height:100%;
+    filter:alpha(opacity=60); 
+    opacity:0.6;
+    display:none; 
+    z-Index:2;
+}
+
+#hidebox { 
+	
+	color:white;
+	position:fixed;
+	width:400px;
+	height:300px;
+	background:#505650;
+	display:none;	
+	
+	left:0;
+	right:0;
+	margin:100px auto;
+	z-index:3;
+	border-radius:10px;
+}
+
+#hideuserbg {
+	color:white;
+	position:fixed;
+	width:200px;
+	height:100px;
+  background-color:grey;
+	display:none;
+	
+	left:-80;
+	right:0;
+	top:185;
+	margin:100px auto;
+	z-index:4;
+	border-radius:10px;
+}
+#hideuserbg li
+{
+	margin-left:5px;
+	list-style-type:none;
+}
+
+.messageTitle{
+	width:400px;
+	height:40px;
+	text-align:center;
+	margin-top:20px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: x-large;
+	font-weight: 800;
+    color: white;
+}
+
+.button1{   
+	 
+     border-radius: 5px 5px 5px 5px;
+     padding: 5px 10px 5px 10px;
+     display: inline;
+     font-family: "Courier New", Courier, monospace;
+     font-size: 0.8em;
+     font-weight:800;
+     color: cyan;
+     text-shadow:5px 2px 5px silver;
+	 background-color:#5e5e5e;
+     cursor: pointer;
+
+}
+
+
